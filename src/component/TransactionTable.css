@@ -1,0 +1,86 @@
+/* TransactionTable.css */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    background-color: white;
+    color: rgb(13, 13, 13);
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+ .btn {
+  border: 1px solid black;
+ }
+  .container{
+    position: absolute;
+    left:0;
+    top:0;
+  }
+  .div1{
+    position: relative;
+    left: 0px;;
+  }
+  .div2{
+    position: relative;
+    left:136px;
+    top:-65px;
+  }
+  .div3{
+    position: relative;
+    left:255px;
+    top:-130px;
+  }
+  .div4{
+    position: relative;
+    left:350px;
+    top:-194px;
+  }
+  .div5{
+    position: relative;
+    left:435px;
+    top:-258px;
+  }
+  .div6{
+    position: relative;
+    left:1121px;
+    top:-311px;
+  }
+  .border{
+    outline: 0;
+    border-width: 0 0 1px;
+    border-color:black;
+  }
+  .align{
+    position: relative;
+    left:-37px;
+  }
+  .align1{
+    position: relative;
+    left:-45px;
+  }
+  .align2{
+    position: relative;
+    left:-26px;
+  }
+  .align3{
+    position: relative;
+    left:-10px;
+  }
+  .align4{
+    position: relative;
+    left:-16px;
+  }
